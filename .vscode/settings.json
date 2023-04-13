@@ -2,6 +2,7 @@
     "editor.fontFamily": "fira code, 'Courier New', monospace",
     "editor.fontSize": 16,
     "cSpell.words": [
+        "figsize",
         "matplotlib"
     ]
 }
