@@ -4,5 +4,6 @@
     "cSpell.words": [
         "figsize",
         "matplotlib"
-    ]
+    ],
+    "python.formatting.provider": "black"
 }
